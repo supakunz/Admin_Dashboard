@@ -3,8 +3,15 @@ AdminDashboard is application an app that displays various information and manag
 
 https://github.com/user-attachments/assets/af5aa836-525c-4f9f-9dea-c46f560ab042
 
-## 🎃 Live Demo 
-<a href='https://adminz-dashboard.vercel.app/' target="_blank">AdminDashboard</a>
+##  🎃  Live Demo 
+
+🎥 Watch demo video :  
+
+[Demo Video](https://github.com/user-attachments/assets/af5aa836-525c-4f9f-9dea-c46f560ab042)
+
+🌐 Try it live here :  
+
+👉  [**Click here to open the app**](https://adminz-dashboard.vercel.app)
 
 ## 💀 Features
 
@@ -55,3 +62,9 @@ npm install
 ```
 npm run dev
 ```
+
+## 🙋‍♂️ Contact
+
+Developed by **Supakun Thata**  
+📧 Email: supakunt.thata@gmail.com  
+🔗 GitHub: [SupakunZ](https://github.com/SupakunZ)
