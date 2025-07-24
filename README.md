@@ -1,7 +1,7 @@
 # Admin-Dashboard
 AdminDashboard is application an app that displays various information and manages products and users, developed using NextJS TailwindCSS MUI Axios and NextAuth for the client and MongoDB for the database.
 
-https://github.com/user-attachments/assets/af5aa836-525c-4f9f-9dea-c46f560ab042
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/aee1975f-3f3b-4a59-acba-0e19bbfe7d75" />
 
 ##  🎃  Live Demo 
 
