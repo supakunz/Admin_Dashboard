@@ -29,14 +29,20 @@ AdminDashboard is application an app that displays various information and manag
   </ul>
 
 ## 🎉 Technologyies Used
-   <i>Tools :</i>
+   <i>Frontend :</i>
   <ul>
       <li>NextJS</li>
       <li>Axios</li>
       <li>NextAuth</li>
       <li>Sweetalert2</li>
-      <li>Material UI</li>
-      <li>Tailwind CSS</li>
+      <li>MaterialUI</li>
+      <li>TailwindCSS</li>
+  </ul>
+  
+  <i>Backend :</i>
+  <ul>
+      <li>NodeJS</li>
+      <li>ExpressJS</li>  
   </ul>
 
   <i>Database :</i>
