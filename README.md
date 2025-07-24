@@ -28,7 +28,7 @@ AdminDashboard is application an app that displays various information and manag
    
   </ul>
 
-## 🎉 Technologyies Used
+## 🎉 Tech Stack
    <i>Frontend :</i>
   <ul>
       <li>NextJS</li>
